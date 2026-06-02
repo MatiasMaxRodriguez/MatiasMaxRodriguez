@@ -39,6 +39,6 @@ Me encuentro en proceso de consolidar experiencia en infraestructura cloud, con 
 ### GitHub Stats
 
 
-<p align="left">
+<p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatiasMaxRodriguez&theme=dark" alt="GitHub Streak" /></a>
 </p>
