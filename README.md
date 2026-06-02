@@ -40,7 +40,5 @@ Me encuentro en proceso de consolidar experiencia en infraestructura cloud, con 
 
 
 <p align="left">
-    <a href="https://github.com/MatiasMaxRodriguez/MatiasMaxRodriguez">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatiasMaxRodriguez&theme=dark" alt="GitHub Streak" /></a>
 </p>
