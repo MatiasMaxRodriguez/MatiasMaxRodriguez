@@ -11,7 +11,7 @@ Me encuentro en proceso de consolidar experiencia en infraestructura cloud, con 
 
 <h4> Herramientas y tecnologías </h4>
 <span> 
-  <a href="https://cloud.google.com/gemini-enterprise?utm_source=google&utm_medium=cpc&utm_campaign=latam-AR-all-es-dr-BKWS-all-all-trial-p-dr-1710136-LUAC0014116&utm_content=text-ad-none-any-DEV_c-CRE_788860045145-ADGP_Hybrid+%7C+BKWS+-+PHR+%7C+txt+-+AIML-AIML-AIML-AR-KWID_22440683595-kwd-22440683595&utm_term=KW_google+cloud-ST_Google+Cloud&gclsrc=aw.ds&gad_source=1&gad_campaignid=23373730964&gclid=CjwKCAjw6rfSBhAqEiwA_yocpuswsU4ldobriDHWP9LABTu49BSGHzBbaR-0kXobYK1WbJbX1xCR0hoCMBMQAvD_BwE&hl=es_419"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
