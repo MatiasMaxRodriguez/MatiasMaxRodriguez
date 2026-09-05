@@ -3,9 +3,10 @@
 
 ![https://github.com/MatiasMaxRodriguez](./ACE_Github_Small.png)
 
-Soy profesional IT con experiencia en soporte técnico, troubleshooting y administración de sistemas, actualmente enfocado en el área de Cloud Support Engineering.
-Cuento con formación en Google Cloud Platform (GCP) y conocimientos prácticos en Linux, networking, virtualización y análisis de logs, orientados a la resolución de incidentes en entornos productivos.
-Me encuentro en proceso de consolidar experiencia en infraestructura cloud, con foco en roles de soporte técnico (L1/L2), monitoreo y operación de sistemas.
+Ingeniero Cloud Junior y Apasionado por la Inteligencia Artificial con sólida formación en administración de infraestructura en la nube, orquestación de
+contenedores y automatización de procesos. Experiencia práctica en el diseño y despliegue de soluciones Cloud GCP, uso de Infraestructura como Código
+(Terraform) y la integración de modelos de IA Generativa mediante desarrollo backend (Python) y agentes inteligentes. Capacidad demostrada para conectar la tecnología con las
+necesidades del negocio y mantener la mejora continua en entornos dinámicos.
 
 ### Skills
 
